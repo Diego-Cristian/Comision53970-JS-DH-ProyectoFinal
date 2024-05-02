@@ -8,8 +8,6 @@
 
 -Tutores:  David Resca - Fabian Romano - Luis Laverde
 
-*()
-
 ##Diego Cristian Vidal
 
 ###Fin
